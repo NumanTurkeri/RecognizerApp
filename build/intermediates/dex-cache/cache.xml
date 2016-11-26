@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8a04661c884aa5486d9aa59c29de3e8e8f3fc5c">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2ad85f4453cb1d430259754b54e5ba67c79e1e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_445524823f33cbb9e035a49c63cf7e430b22c3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_14d804ad78e90747153bac1ce66243e0c01635fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_e335b0c31f418063a95f208da182e421b027b9ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ac90c16adfb0285abaccdc94c0f15575fcea5608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_19e65020f3b900c75d3a4b387a7a47b8c70d346c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_f41bec32df89f9d18ac862bfef400c5b8d6fcafb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_b07992e4c2b07469ed48db8f9fcce5a061bad7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7f19cce89b4bd81b6953df242ee09f471b58015">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/instant-run_c06e6dd0b8fe437667fc42dc4623e08389cbec50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_1e7512e3309793b10d38b06eb2d32206efa2e38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_bffd7e362206b02dc5c3d0a74ccf8901415b5d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_b287cb4ab626e969c69bd552c605abb69fbcd360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c0b1bf68c559e305863118e4b56a3d771b42c1a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6629ef216e6417f1e1ef3c000056d4a6383a735b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_a554369271ed42849a9463d1f72f293f6e36b855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cd4cfd0b6c0261c82b9c3967fb467a666f081dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7806ca4ec6e5a64ba80f184e33c6816e91781edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d2e850463a673255bb8d510783637ff0b26e78cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/numan_turkeri/Documents/Numan/AlmancaTelaffuz/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_3347cb924cdc4036a30d629910c41406cdcb539c.jar" />
+    </item>
+
+</items>
