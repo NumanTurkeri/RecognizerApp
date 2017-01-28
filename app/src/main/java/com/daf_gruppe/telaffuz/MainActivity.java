@@ -28,10 +28,11 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter searchAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
-TextView textView;
+    TextView textView;
     private final int REQ_CODE_SPEECH_INPUT = 100;
-String selected;
+    String selected;
     private String LOG_TAG = "ANA";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -75,7 +76,7 @@ String selected;
             @Override
             public void onItemClick(int position, View v) {
                 Word odev = words.get(position);
-                selected=odev.getText();
+                selected = odev.getText();
                 promptSpeechInput();
 
             }
@@ -95,7 +96,9 @@ String selected;
             startActivityForResult(intent, REQ_CODE_SPEECH_INPUT);
         } catch (ActivityNotFoundException a) {
         }
-    } @Override
+    }
+
+    @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
@@ -106,8 +109,8 @@ String selected;
                     ArrayList<String> result = data
                             .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
                     textView.setText(result.get(0));
-                    if (result.get(0).equals(selected)){
-                        Toast.makeText(getApplicationContext(),"Bravooo Yaptin",Toast.LENGTH_LONG).show();
+                    if (result.get(0).equals(selected)) {
+                        Toast.makeText(getApplicationContext(), "Bravooo Yaptin", Toast.LENGTH_LONG).show();
                     }
                 }
                 break;
